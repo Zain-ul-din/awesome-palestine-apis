@@ -1,2 +1,7 @@
-export * from "./src/APIMetadata";
-export * from "./src/Config.d";
+import Config from "./src/Config";
+import APIMetadata from "./src/APIMetadata";
+
+export {
+  Config,
+  APIMetadata
+}

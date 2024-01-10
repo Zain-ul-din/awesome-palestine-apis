@@ -5,14 +5,20 @@
   "main": "index.js",
   "license": "MIT",
   "private": "true",
+  "scripts": {
+    "format": "prettier --write ./data"
+  },
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "crawlers/*"
   ],
   "dependencies": {
+    "puppeteer": "^21.7.0",
     "typescript": "^5.3.3"
   },
   "devDependencies": {
-    "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0"
+    "prettier": "^3.1.1",
+    "tsconfig-paths": "^4.2.0",
+    "vite-node": "^1.1.3"
   }
 }

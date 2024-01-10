@@ -5,8 +5,8 @@ interface APIMetadata {
   /**
    * Original source of the data.
    */
-  source: string | null;
-
+  source: string[] | null;
+  
   /**
    * Last updated date.
    */

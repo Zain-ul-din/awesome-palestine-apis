@@ -1,11 +1,14 @@
 <!-- Intro -->
+
 ## Awesome Palestine APIS ![Awesome](https://badgen.net/badge/icon/Awesome/0088cc?icon=awesome&label&color=514b6d&labelColor=70616d) 🇵🇸
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+
 
 Discover a curated list of APIs providing valuable data about Palestine. Explore, contribute, and leverage these APIs to empower your projects with Palestinian data. 
 
 <!-- APIS list -->
 
-## APIS 🌐
+## APIS 🚀
 
 <table>
   <thead>

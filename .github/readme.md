@@ -14,7 +14,7 @@ Discover a curated list of APIs providing valuable data about Palestine. Explore
   <thead>
     <tr>
       <th>Method</th>
-      <th>Endpoint</th>
+      <th>ContentType</th>
       <th>Params</th>
       <th>SOURCE</th>
       <th>Description</th>
@@ -24,7 +24,7 @@ Discover a curated list of APIs providing valuable data about Palestine. Explore
   <tbody>
     <tr>
       <td>GET</td>
-      <td>RAW</td>
+      <td>JSON</td>
       <td>-</td>
       <td><a href="https://github.com/aborazmeh/awesome-palestine">Source</a></td>
       <td>Returns list of curated list of Palestine and Palestinian-Israeli conflict resources.</td>
@@ -36,11 +36,19 @@ Discover a curated list of APIs providing valuable data about Palestine. Explore
     </tr>
     <tr>
       <td>GET</td>
-      <td>/api/martyrs</td>
+      <td>JSON</td>
       <td>-</td>
       <td><a href="https://github.com/Zain-ul-din/The-Palestinian-Side">Source</a></td>
       <td>returns names of the people killed in Israeli attacks on Gaza</td>
       <td><a href="https://www.palestineside.site/api/martyrs">Demo</a></td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>CSV</td>
+      <td>-</td>
+      <td><a href="https://www.aljazeera.com/news/longform/2023/11/1/know-their-names-palestinians-killed-in-israeli-attacks-on-gaza">Source</a></td>
+      <td>returns names of the people killed in Israeli attacks on Gaza</td>
+      <td><a href="https://datawrapper.dwcdn.net/SAgXc/2/dataset.csv">Demo</a></td>
     </tr>
   </tbody>
 </table>

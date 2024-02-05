@@ -50,6 +50,30 @@ Discover a curated list of APIs providing valuable data about Palestine. Explore
       <td>returns names of the people killed in Israeli attacks on Gaza</td>
       <td><a href="https://datawrapper.dwcdn.net/SAgXc/2/dataset.csv">Demo</a></td>
     </tr>
+    <tr>
+      <td>GET</td>
+      <td>JSON</td>
+      <td>-</td>
+      <td><a href="https://data.techforpalestine.org/docs/casualties-daily/">Source</a></td>
+      <td>returns daily reports of casualty numbers since Oct 7. in Gaza</td>
+      <td><a href="https://data.techforpalestine.org/api/v2/casualties_daily.json">Demo</a></td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>JSON</td>
+      <td>-</td>
+      <td><a href="https://data.techforpalestine.org/docs/summary/">Source</a></td>
+      <td>returns latest values for casualties in Gaza since Oct 7.</td>
+      <td><a href="https://data.techforpalestine.org/api/v2/summary.json">Demo</a></td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>JSON</td>
+      <td>-</td>
+      <td><a href="https://data.techforpalestine.org/docs/killed-in-gaza/">Source</a></td>
+      <td>returns list of names of those known killed in Gaza since Oct 7.</td>
+      <td><a href="https://data.techforpalestine.org/api/v2/killed-in-gaza.json">Demo</a></td>
+    </tr>
   </tbody>
 </table>
 

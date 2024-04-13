@@ -77,6 +77,32 @@ Discover a curated list of APIs providing valuable data about Palestine. Explore
   </tbody>
 </table>
 
+## Datasets 💡
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Source</th>
+      <th>Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>boycott-israeli-consumer-goods-dataset</td>
+      <td>golden source for combining boycott data + alternatives</td>
+      <td><a href="https://github.com/TechForPalestine">TechForPalestine</a></td>
+      <td><a href="https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset/tree/main/data">Demo</a></td>
+    </tr>
+    <tr>
+      <td>boycott-israeli-tech-companies-dataset</td>
+      <td>This Github repository is dedicated to providing a comprehensive list of Israeli tech companies to boycott, categorized based on their respective industries.</td>
+      <td><a href="https://github.com/TechForPalestine">TechForPalestine</a></td>
+      <td><a href="https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/tree/main/dataset/companies">Demo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- footer -->
 ---

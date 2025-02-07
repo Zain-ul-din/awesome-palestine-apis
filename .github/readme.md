@@ -101,6 +101,12 @@ Discover a curated list of APIs providing valuable data about Palestine. Explore
       <td><a href="https://github.com/TechForPalestine">TechForPalestine</a></td>
       <td><a href="https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/tree/main/dataset/companies">Demo</a></td>
     </tr>
+    <tr>
+      <td>authentic-palestinian-narratives-dataset</td>
+      <td>A curated dataset focused on authentic Palestinian narratives and reporting</td>
+      <td><a href="https://huggingface.co/datasets/mlibre/palestine">Palestinian Dataset</a></td>
+      <td><a href="https://huggingface.co/datasets/mlibre/palestine">Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
